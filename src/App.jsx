@@ -4,7 +4,7 @@ import build from "./image/build.jpeg";
 import flower from "./image/flower.jpeg";
 import "./App.css";
 const photos = [
-  { id: 1, url: birch, category: "Природа", title: "Берёзовая роща" },
+  { id: 1, url: birch, category: "Природа", title: "Берёзова" },
   { id: 2, url: build, category: "Город", title: "Лесное озеро" },
   { id: 3, url: flower, category: "Растения", title: "Цветок" },
 ];

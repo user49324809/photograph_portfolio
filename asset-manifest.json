@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/photograph_portfolio/static/css/main.946cbc24.css",
+    "main.js": "/photograph_portfolio/static/js/main.fa985d1d.js",
+    "static/js/453.e019ae76.chunk.js": "/photograph_portfolio/static/js/453.e019ae76.chunk.js",
+    "static/media/build.jpeg": "/photograph_portfolio/static/media/build.7c33713abf20316d7964.jpeg",
+    "static/media/flower.jpeg": "/photograph_portfolio/static/media/flower.9f541a940b10ce9895d9.jpeg",
+    "static/media/birch.jpeg": "/photograph_portfolio/static/media/birch.5b7bfdfdb472d722bb0c.jpeg",
+    "index.html": "/photograph_portfolio/index.html",
+    "main.946cbc24.css.map": "/photograph_portfolio/static/css/main.946cbc24.css.map",
+    "main.fa985d1d.js.map": "/photograph_portfolio/static/js/main.fa985d1d.js.map",
+    "453.e019ae76.chunk.js.map": "/photograph_portfolio/static/js/453.e019ae76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946cbc24.css",
+    "static/js/main.fa985d1d.js"
+  ]
+}

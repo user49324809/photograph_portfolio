@@ -6,7 +6,7 @@ import "./App.css";
 const photos = [
   { id: 1, url: birch, category: "Природа", title: "Берёзовая роща" },
   { id: 2, url: build, category: "Город", title: "Лесное озеро" },
-  { id: 3, url: flower, category: "Пейзаж", title: "Цветок" },
+  { id: 3, url: flower, category: "Растения", title: "Цветок" },
 ];
 const categories = ["Все", ...Array.from(new Set(photos.map(p => p.category)))];
 export default function App() {
